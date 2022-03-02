@@ -1,6 +1,6 @@
 # YONSEI-PRP-WIKI: 연세대학교 전문연구요원 위키
 
-*\*PRP: Professional Research Personnel Wiki (Translated by Google Translate at 11:03 AM KST, 2nd, March, 2022*
+*\*PRP: Professional Research Personnel. 전문연구요원의 영어 번역어. (Translated by Google Translate at 11:03 AM KST, 2nd, March, 2022)*
 
 ## 복무 관련
 
@@ -11,6 +11,7 @@
 2. 자가진단키트 구매 후 양/음성 여부 확인
 
 3-(ㄱ) 양성인 경우, PCR 검사 받으러 출발
+
 3-(ㄴ) 음성인 경우, 4번으로.
 
 4-(ㄴ) 가까운 병원에 도보 및 자차를 통해 방문하여 신속항원검사 진행
@@ -21,6 +22,7 @@
 4-(ㄴ)-(b) 신속항원검사 음성이 뜨면 아래 중 하나 선택
 
 (i) 병가를 취소하고 학교로 출발
+
 (ii) 오늘 하루 푹 쉬고 내일부터 출근 (병가 1일 차감)
 
 ## 관련 내선 연락처들 모음 (가나다순)
