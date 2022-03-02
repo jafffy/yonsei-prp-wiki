@@ -2,6 +2,11 @@
 
 *\*PRP: Professional Research Personnel. 전문연구요원의 영어 번역어. (Translated by Google Translate at 11:03 AM KST, 2nd, March, 2022)*
 
+## 위키에 기여하는 방법
+
+1. 궁금한 사항이 있으시면 Issues 탭에 글을 작성해주세요. 큰 기여가 됩니다.
+2. 도움을 주고 싶으신 분들은 Issues 탭에 올라온 글에 대한 답변을 Pull request로 보내주세요. 위키 운영진이 파악하고 merge 하겠습니다.
+
 ## 복무 관련
 
 ### 코로나 의심 요원 병가 사용 프로토콜 (VER. 2022년 3월 2일)
